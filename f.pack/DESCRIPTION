@@ -1,0 +1,28 @@
+Package: f.pack
+Type: Package
+Title: f.pack: plots para testes de hipóteses
+Version: 0.1.0
+Author: Felinto COSTA
+Maintainer: Felinto COSTA <fjcosta@uel.br>
+Description: Distribuições Normal padronizada e 't' de Student
+    Testes de hipósteses bilaterais sobre a média de uma população
+    frequentemente são melhor compreendidos pelos alunos com a sobreposição
+    das distribuições Normal padronizada e 't' de Student com as respectivas
+    estatísticas calculadas para o teste e seus valores críticos sob o nível
+    de significância pretendido.
+Imports: 
+    graphics,
+    stats,
+    base,
+    setRNG
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+URL: https://github.com/fjrcosta
+RoxygenNote: 7.1.0
+Depends: 
+    R (>= 2.10)
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
