@@ -1,5 +1,5 @@
 # f.pack
-Pacote para R: f.pack (PGMAC 2020 Tópicos em modelagem estatística)
+Pacote para R: f.pack 
 Atividade PGMAC 2020 Tópicos em modelagem estatística
 Este é um pacote criado para gerar gráficos auxiliares na decisão em testes de hipóteses sobre a média de uma população.
 
